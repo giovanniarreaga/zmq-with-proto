@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/proto_client.dir/main.cpp.o  -o proto_client ../protos/libproto.a /usr/local/lib/libzmq.so.5.2.3 /usr/lib/x86_64-linux-gnu/libprotobuf.so 

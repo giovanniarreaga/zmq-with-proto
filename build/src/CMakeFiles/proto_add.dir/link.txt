@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/proto_add.dir/add_person.cpp.o  -o proto_add ../protos/libproto.a /usr/lib/x86_64-linux-gnu/libprotobuf.so 

@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/proto_server.dir/zmqserver.cpp.o  -o proto_server ../protos/libproto.a /usr/local/lib/libzmq.so.5.2.3 /usr/lib/x86_64-linux-gnu/libprotobuf.so 

@@ -1,0 +1,11 @@
+/home/navair/Desktop/zmq_with_proto/build/CMakeFiles/edit_cache.dir
+/home/navair/Desktop/zmq_with_proto/build/CMakeFiles/rebuild_cache.dir
+/home/navair/Desktop/zmq_with_proto/build/protos/CMakeFiles/edit_cache.dir
+/home/navair/Desktop/zmq_with_proto/build/protos/CMakeFiles/rebuild_cache.dir
+/home/navair/Desktop/zmq_with_proto/build/protos/CMakeFiles/proto.dir
+/home/navair/Desktop/zmq_with_proto/build/src/CMakeFiles/rebuild_cache.dir
+/home/navair/Desktop/zmq_with_proto/build/src/CMakeFiles/proto_add.dir
+/home/navair/Desktop/zmq_with_proto/build/src/CMakeFiles/proto_list.dir
+/home/navair/Desktop/zmq_with_proto/build/src/CMakeFiles/proto_client.dir
+/home/navair/Desktop/zmq_with_proto/build/src/CMakeFiles/edit_cache.dir
+/home/navair/Desktop/zmq_with_proto/build/src/CMakeFiles/proto_server.dir

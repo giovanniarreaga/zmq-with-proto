@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+5315ca3c0803e8e1b01086a0abb40c4e protos/addressbook.pb.cc

@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/proto_list.dir/list_people.cpp.o  -o proto_list ../protos/libproto.a /usr/lib/x86_64-linux-gnu/libprotobuf.so 
